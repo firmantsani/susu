@@ -1,2 +1,2 @@
 # susu
-Sharelok tak parani
+Auto get voucher susu indomilik
