@@ -79,7 +79,7 @@ $previousIP = getCurrentIP();
     if (cekKoneksi()) {
         echo "Koneksi tersedia, melanjutkan eksekusi...\n";
     } else {
-        system('php susu3.php');
+        system('php enaak.php');
     }
 
 
@@ -318,4 +318,4 @@ save($newString."\n","enaak.txt");
     }
 }
 system('rm cookies.txt');
-system('php susu3.php');
+system('php enaak.php');
